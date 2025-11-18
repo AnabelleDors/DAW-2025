@@ -4,7 +4,6 @@ export type MovieDTO = {
     title: string;
     year : number;
     image: string;
-
     genres: string;
     duration:string;
     sinopse:string;
